@@ -4,17 +4,17 @@
 
 ## Info
 
-Hi There, I'm thaju Neighbourhood Programmer From India.
+Hi There, I'm thaju Neighbourhood Programmer From India🇮🇳.
 
 - :computer: I'm currently working on a "secret" project.
 
-- :school: asmmhss 💪
+- :school: student of asmmhss🇮🇳 💪
 
-- : butterfly: Fun fact : I like butterfly
+- : butterfly: Fun fact : I like butterfly🦋
 
 ## Where to find me
 
-[![Github](https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=Instagram&logoColor=red)](https://instagram/_.thaju____)
+[![Github](https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=Instagram&logoColor=red)](https://instagram.com/_.thaju____)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/armiy_v)
 
