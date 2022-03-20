@@ -10,7 +10,7 @@ Hi There, I'm thaju Neighbourhood Programmer From India🇮🇳.
 
 - :school: student of asmmhss🇮🇳 💪
 
-- : butterfly: Fun fact : I like butterfly🦋
+- :butterfly: Fun fact : I like butterfly🦋
 
 ## Where to find me
 
