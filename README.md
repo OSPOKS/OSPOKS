@@ -19,12 +19,14 @@ Hi There, I'm thaju Neighbourhood Programmer From India🇮🇳.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/armiy_v)
 
 
+[![buy me a coffee](https://img.shields.io/badge/buymeacofee-2CA5E0?style=for-the-badge&logo=buymeacoffee&logoColor=yellow)](https://buymeacoffee.com/thaju)
+
+
+
+## [channel](https://t.me/pythonupdat)
+
+## [group](https://t.me/nihaxcks)
 
 
 
 
-<p align="left">
-
-  <img src="https://telegra.ph/file/5d3299b77ee006306be56.jpg" alt="Sakura Logo">
-
-</p>
