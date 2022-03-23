@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **thajudecodes@gmail.com**
 
-- 🦋know about me [Iam a student and some knowledge in programming and ethical hacking](Iam a student and some knowledge in programming and ethical hacking)
+- 🦋know about me [Iam a student and some knowledge in programming and ethical hacking]
 
 - ⚡ Fun fact **I love butterfly**
 
