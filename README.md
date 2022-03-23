@@ -27,6 +27,8 @@ Hi There, I'm thaju Neighbourhood Programmer From India🇮🇳.
 
 ## [group](https://t.me/nihaxcks)
 
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repository!</h3>
 
+---
 
 
