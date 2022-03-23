@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Thajudheen</h1>
+#[Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am thajudheen](https://instagram.com/_.thaju____)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning :java: **Java**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [Github.com/thajudecodes](Github.com/thajudecodes)
 
@@ -27,4 +27,5 @@
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/Thajudheen"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Thajudheen" /></a></p><br><br>
+
 
