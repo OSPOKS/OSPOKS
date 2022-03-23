@@ -1,4 +1,4 @@
-<a [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am thajudheen](https://instagram.com/_.thaju____) </a>
+<a [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am thajudheen](https://instagram.com/_.thaju____) /a>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
