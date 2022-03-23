@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning :java: **Java**
 
 - 👨‍💻 All of my projects are available at [Github.com/thajudecodes](Github.com/thajudecodes)
 
