@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [Github.com/thajudecodes](Github.com/thajudecodes)
+- 👨‍💻 All of my public projects are available at [Github.com/thajudecodes](Github.com/thajudecodes)
 
 - 💬 Ask me about **How to sleep a whole day 😂**
 
