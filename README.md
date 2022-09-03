@@ -22,9 +22,11 @@
 
 <p align="left">
 
-<a href="https://instagram.com/_.thaju____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.thaju____" height="30" width="40" /></a>
-
-<a href="/t.me/nihaxcks" target="blank"><i class="bi bi-telegram"></i>
+		    <div class="social-media">
+			  <a href="https://github.com/_.thaju____"><i class='fab fa-github'></i></a>
+			  <a href="https://instagram"><i class="fab fa-instagram"></i></a>
+                          <a href="https://t.me/armiy_v"><i class="fab fa-telegram"></i></a>
+		    </div>
 
 </p>
 
