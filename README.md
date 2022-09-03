@@ -21,12 +21,11 @@
 <h3 align="left">Connect with me:</h3>
 
 
-
-		    <div class="social-media">
-			  <a href="https://github.com/thajudecodes"><i class='fab fa-github'></i></a>
-			  <a href="https://instagram/_.thaju____"><i class="fab fa-instagram"></i></a>
-        <a href="https://t.me/armiy_v"><i class="fab fa-telegram"></i></a>
-		    </div>
+    <div class="social-media"> 
+    <a> href="https://github.com/thajudecodes"><i class='fab fa-github'></i></a>
+    <a>href="https://instagram/_.thaju____"><i class="fab fa-instagram"></i></a>
+    <a> href="https://t.me/armiy_v"><i class="fab fa-telegram"></i></a>
+    </div>
 
 <h3 align="left">Languages and Tools:</h3>
 
