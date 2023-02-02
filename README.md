@@ -90,6 +90,7 @@ Dont forget to fork🔱 and leave a star⭐
  
 ### In this world🌐of darkness☕ u r only the light📈 i need🛰
   
-<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img alt="Coder GIF" height=250 width=350 
+src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 
