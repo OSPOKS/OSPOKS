@@ -54,6 +54,11 @@ i welcome contributions from the community. Please open an issue or submit a pul
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
+  # looking
+  
+  <p align="left">
+<a href="https://instagram.com/_.thaju____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.thaju____" height="30" width="40" /></a>
+</p>
   
   ## License
 
