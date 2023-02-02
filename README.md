@@ -25,7 +25,11 @@ Welcome to my webste, where i believe in taking breaks and sipping on a hot cup 
 <p align="center">
         <img src="https://raw.githubusercontent.com/thajudecodes/thajudecodes/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
-
+<p align="center">
+  <a href="https://github.com/thajudecodes">
+    <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+  </a>
+</p>
 
 
 ## Contact me
