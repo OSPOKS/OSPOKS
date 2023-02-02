@@ -24,7 +24,7 @@ Welcome to my webste, where we believe in taking breaks and sipping on a hot cup
 
 ## Contact me
 
-If you have any questions, suggestions or feedback, feel free to reach out to us at thajudecodes@gmail.com
+If you have any questions, suggestions or feedback, feel free to reach out to us at [gmail](thajudecodes@gmail.com)
 
 ## Contributions
 
