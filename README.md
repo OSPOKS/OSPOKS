@@ -1,7 +1,7 @@
 ## welcome to my website
 
 
-# muhammed thajudheen
+# my name is  muhammed thajudheen
 # iam a student , devoloper , freelancer and overthinker😅
 ![Tea Time Animation](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
 
@@ -38,3 +38,7 @@ i welcome contributions from the community. Please open an issue or submit a pul
 This project is licensed under the terms of the MIT license.
 
 Copyright (c) 2023 Thaju
+
+
+
+## this website is a opensource website so you can copy or edit my website using provided links here 👇
