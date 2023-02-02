@@ -5,7 +5,7 @@
 # iam a student , devoloper , freelancer and overthinker😅
 ![Tea Time Animation](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
 
-Welcome to my webste, where we believe in taking breaks and sipping on a hot cup of tea while coding. iam a developer and designer who love to code and share our passion for tea.
+Welcome to my webste, where i believe in taking breaks and sipping on a hot cup of tea while coding. iam a developer and designer who love to code and share our passion for tea.
 
 ## Follow me on social media:
 
@@ -41,5 +41,5 @@ Copyright (c) 2023 Thaju
 
 
 
-## this website is a opensource website so you can copy or edit my website using provided link [here](https://github.com/Thajudecodes/thajudecodes)
-# Dont forget to fork🔱 and leave a star⭐
+# this website is a opensource website so you can copy or edit my website using provided link [here](https://github.com/Thajudecodes/thajudecodes)
+Dont forget to fork🔱 and leave a star⭐
