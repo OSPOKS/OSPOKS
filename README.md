@@ -46,7 +46,6 @@ Dont forget to fork🔱 and leave a star⭐
  
 
 
-<!DOCTYPE html>
 <html>
   <head>
     <style>
