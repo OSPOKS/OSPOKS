@@ -1,7 +1,7 @@
-## welcome to my website
+## hello world 
 
 
-# my name is     * "muhammed thajudheen" *
+# my name is     "muhammed thajudheen" 
 # iam a student , devoloper , freelancer and overthinker😅
 ![Tea Time Animation](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
 
@@ -21,6 +21,12 @@ Welcome to my webste, where i believe in taking breaks and sipping on a hot cup 
 <a href="https://github.com/thajudecodes">
   <img alt="GitHub" src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" />
 </a>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/thajudecodes/thajudecodes/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+
 
 ## Contact me
 
