@@ -41,4 +41,5 @@ Copyright (c) 2023 Thaju
 
 
 
-## this website is a opensource website so you can copy or edit my website using provided links here 👇
+## this website is a opensource website so you can copy or edit my website using provided link [here](https://github.com/Thajudecodes/thajudecodes)
+    Dont forget to fork🔱 and leave a star⭐
