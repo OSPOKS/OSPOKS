@@ -114,4 +114,46 @@
         <img src="https://raw.githubusercontent.com/thajudecodes/thajudecodes/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
- [instagram](https://ig.me/_.thaju____)
+ <!DOCTYPE html>
+<html>
+  <head>
+    <title>My Social Media Links</title>
+    <style>
+      /* Add some basic styling for the logos */
+      .social-logo {
+        height: 40px;
+        width: 40px;
+        margin-right: 10px;
+        vertical-align: middle;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>My Social Media Links</h1>
+    <p>Follow me on:</p>
+    <ul>
+      <li>
+        <a href="https://telegram.me/armiy_v">
+          <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_133917.png"
+               alt="Telegram logo" class="social-logo">
+          Telegram
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/_thaju____">
+          <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-twitter-square2-512.png"
+               alt="Twitter logo" class="social-logo">
+          Twitter
+        </a>
+      </li>
+      <li>
+        <a href="https://instagram.com/_.thaju____">
+          <img src="https://image.flaticon.com/icons/png/512/174/174855.png"
+               alt="Instagram logo" class="social-logo">
+          Instagram
+        </a>
+      </li>
+    </ul>
+  </body>
+</html>
+
