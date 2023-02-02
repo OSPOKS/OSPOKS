@@ -77,6 +77,19 @@ i welcome contributions from the community. Please open an issue or submit a pul
 
 </p>
   
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thajudecodes" alt="thajudecodes" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_thaju____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_thaju____" height="30" width="40" /></a>
+<a href="https://instagram.com/_.thaju____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.thaju____" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thajudecodes&show_icons=true&locale=en&layout=compact" alt="thajudecodes" /></p>
+
+  
+  
+  
   ## License
 
 This project is licensed under the terms of the MIT license.
