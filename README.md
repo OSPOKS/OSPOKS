@@ -2,6 +2,12 @@
 
 
 # my name is     "muhammed thajudheen" 
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨🏻‍💻 thajudheen | 💻 Developer | 🛸 India ,  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+
 # iam a student , devoloper , freelancer and overthinker😅
 ![Tea Time Animation](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
 
