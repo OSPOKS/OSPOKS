@@ -45,50 +45,6 @@ Copyright (c) 2023 Thaju
 Dont forget to fork🔱 and leave a star⭐
  
 
-
-<html>
-  <head>
-    <style>
-      /* Add styling for the student and computer elements */
-      .student {
-        width: 150px;
-        height: 200px;
-        background-color: #87CEEB;
-        border-radius: 20px;
-        position: relative;
-        left: 50px;
-        top: 20px;
-        animation: use-computer 2s infinite;
-      }
-      .computer {
-        width: 300px;
-        height: 200px;
-        background-color: #D3D3D3;
-        border-radius: 20px;
-        position: relative;
-        left: 50px;
-        top: 20px;
-      }
-      
-      /* Add keyframes for the animation */
-      @keyframes use-computer {
-        0% {
-          transform: translateX(0);
-        }
-        50% {
-          transform: translateX(20px);
-        }
-        100% {
-          transform: translateX(0);
-        }
-      }
-    </style>
-  </head>
-  <body>
-    <!-- Add the student and computer elements -->
-    <div class="student"></div>
-    <div class="computer"></div>
-  </body>
-</html>
+  
 
 
