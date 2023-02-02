@@ -31,7 +31,7 @@
     <li>🛸 Into space, I love shooting stars too.</li>
     <li>I do programming and a bit of everything :heart:</li>
     <li>All about living life at its best.</li>
-    <li>💬 Connect? Let's get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/telegram.svg">](https://t.me/armiy_v)</li>
+    <li>💬 Connect? Let's get social 👉🏼[ <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/telegram.svg"> ](https://t.me/armiy_v)</li>
   </ul>
 </p>
 
