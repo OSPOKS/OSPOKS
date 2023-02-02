@@ -37,3 +37,4 @@ i welcome contributions from the community. Please open an issue or submit a pul
 
 This project is licensed under the terms of the MIT license.
 
+Copyright (c) 2023 Thaju
