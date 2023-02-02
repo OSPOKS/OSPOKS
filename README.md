@@ -85,6 +85,9 @@ i welcome contributions from the community. Please open an issue or submit a pul
 <a href="https://instagram.com/_.thaju____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.thaju____" height="30" width="40" /></a>
 </p>
 
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](Https://t.me/armiy_v)  
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thajudecodes&show_icons=true&locale=en&layout=compact" alt="thajudecodes" /></p>
 
   
