@@ -148,7 +148,7 @@
       </li>
       <li>
         <a href="https://instagram.com/_.thaju____">
-          <img src="https://image.flaticon.com/icons/png/512/174/174855.png"
+          <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram logo">
                alt="Instagram logo" class="social-logo">
           Instagram
         </a>
