@@ -1,8 +1,8 @@
 ## welcome to my website
 
 
-# Tea Time Coder
-
+# muhammed thajudheen
+# iam a student , devoloper , freelancer and overthinker😅
 ![Tea Time Animation](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
 
 Welcome to my webste, where we believe in taking breaks and sipping on a hot cup of tea while coding. iam a developer and designer who love to code and share our passion for tea.
