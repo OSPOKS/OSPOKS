@@ -141,7 +141,8 @@
       </li>
       <li>
         <a href="https://twitter.com/_thaju____">
-          <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-twitter-square2-512.png"
+          <img src="https://abs.twimg.com/responsive-web/web/icon-ios.png" alt="Twitter logo">
+
                alt="Twitter logo" class="social-logo">
           Twitter
         </a>
