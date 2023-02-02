@@ -1,7 +1,7 @@
 ## welcome to my website
 
 
-# my name is  muhammed thajudheen
+# my name is * muhammed thajudheen *
 # iam a student , devoloper , freelancer and overthinker😅
 ![Tea Time Animation](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
 
