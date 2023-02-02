@@ -29,6 +29,9 @@ If you have any questions, suggestions or feedback, feel free to reach out to us
 ## Contributions
 
 i welcome contributions from the community. Please open an issue or submit a pull request if you would like to contribute in my github.
+<a href="https://github.com/thajudecodes">
+  <img alt="GitHub" src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" />
+</a>
 
 ## License
 
