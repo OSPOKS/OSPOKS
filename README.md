@@ -114,4 +114,4 @@
         <img src="https://raw.githubusercontent.com/thajudecodes/thajudecodes/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
- [instagram](https://ig.me/_.thaju____
+ [instagram](https://ig.me/_.thaju____)
