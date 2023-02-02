@@ -92,8 +92,6 @@ Dont forget to fork🔱 and leave a star⭐
   
 
 
- <!DOCTYPE html>
-<html>
 <head>
   <style>
     #matrix {
@@ -151,4 +149,3 @@ Dont forget to fork🔱 and leave a star⭐
     setInterval(draw, 50);
   </script>
 </body>
-</html>
