@@ -114,47 +114,40 @@
         <img src="https://raw.githubusercontent.com/thajudecodes/thajudecodes/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
- <!DOCTYPE html>
-<html>
+ <html>
   <head>
-    <title>My Social Media Links</title>
     <style>
-      /* Add some basic styling for the logos */
-      .social-logo {
-        height: 40px;
+      .social-media {
+        display: flex;
+        justify-content: space-between;
+        width: 200px;
+        margin: 20px auto;
+      }
+
+      .social-media a {
+        display: inline-block;
         width: 40px;
-        margin-right: 10px;
-        vertical-align: middle;
+        height: 40px;
+      }
+
+      .telegram-logo {
+        background: url("https://image.flaticon.com/icons/svg/149/149071.svg") no-repeat;
+      }
+
+      .twitter-logo {
+        background: url("https://image.flaticon.com/icons/svg/733/733579.svg") no-repeat;
+      }
+
+      .instagram-logo {
+        background: url("https://image.flaticon.com/icons/svg/174/174855.svg") no-repeat;
       }
     </style>
   </head>
   <body>
-    <h1>My Social Media Links</h1>
-    <p>Follow me on:</p>
-    <ul>
-      <li>
-        <a href="https://telegram.me/armiy_v">
-          <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_133917.png"
-               alt="Telegram logo" class="social-logo">
-          Telegram
-        </a>
-      </li>
-      <li>
-        <a href="https://twitter.com/_thaju____">
-          <img src="https://abs.twimg.com/responsive-web/web/icon-ios.png" alt="Twitter logo">
-
-               alt="Twitter logo" class="social-logo">
-          Twitter
-        </a>
-      </li>
-      <li>
-        <a href="https://instagram.com/_.thaju____">
-          <img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram logo">
-               alt="Instagram logo" class="social-logo">
-          Instagram
-        </a>
-      </li>
-    </ul>
+    <div class="social-media">
+      <a href="https://telegram.me/armiy_v" class="telegram-logo"></a>
+      <a href="https://twitter.com/_thaju____" class="twitter-logo"></a>
+      <a href="https://instagram.com/_.thaju____" class="instagram-logo"></a>
+    </div>
   </body>
 </html>
-
