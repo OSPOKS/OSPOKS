@@ -110,22 +110,5 @@ Dont forget to fork🔱 and leave a star⭐
   
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
-# .
-
-<script>
-async function getLastGithubActivity() {
-  const response = await fetch("https://api.github.com/users/thajudecodes/events");
-  const data = await response.json();
-  const lastEvent = data[0];
-  const lastActivity = new Date(lastEvent.created_at).toLocaleString();
-  document.getElementById("github-activity").innerHTML = `Last Github activity: ${lastActivity}`;
-}
-
-getLastGithubActivity();
-</script>
-
-<div id="github-activity"></div>
 
 
-
-  
