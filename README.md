@@ -112,5 +112,5 @@ Dont forget to fork🔱 and leave a star⭐
 <br>
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6427381748703949"
-     crossorigin="anonymous"></script>
+# my projects
+  [live crypto graph v1](https://thajudecodes.github.io/cryptoshow)
