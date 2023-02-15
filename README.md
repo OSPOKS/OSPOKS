@@ -114,5 +114,6 @@ Dont forget to fork🔱 and leave a star⭐
 
 # my projects
 # [live crypto graph v1](https://thajudecodes.github.io/cryptoshow)
+# [live crypto v2 ](https://thajudecodes.github.io/cryptoshow-v2)
 # [private search engine -lookout](https://thajudecodes.github.io/lookout-service-engine)
 # [NICK NAME generator](https://thajudecodes.github.io/nickname-generater/)
