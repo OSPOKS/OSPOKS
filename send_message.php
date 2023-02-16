@@ -3,7 +3,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 	$name = $_POST['name'];
 	$email = $_POST['email'];
 	$message = $_POST['message'];
-	$to = 'your-email@example.com';
+	$to = 'thajudecodes@gmail.com';
 	$subject = 'Message from ' . $name;
 	$body = "From: $name\nEmail: $email\nMessage:\n$message";
 
