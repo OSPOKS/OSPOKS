@@ -120,4 +120,39 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
+<html>
+	<title>Send a Message</title>
+	<style>
+		.button {
+			background-color: #4CAF50;
+			color: white;
+			padding: 10px 20px;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+		}
+
+		.button:hover {
+			background-color: #3e8e41;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>👋 Send a Message</h1>
+	</header>
+	<main>
+		<form action="send_message.php" method="post">
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="name" required><br><br>
+			<label for="email">Email:</label>
+			<input type="email" id="email" name="email" required><br><br>
+			<label for="message">Message:</label>
+			<textarea id="message" name="message" required></textarea><br><br>
+			<button type="submit" class="button">Send Message</button>
+		</form>
+	</main>
+</body>
 </html>
+
+
