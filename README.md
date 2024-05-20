@@ -71,9 +71,7 @@ i welcome contributions from the community. Please open an issue or submit a pul
   # git
   
   <p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=thajudecodes&&show_icons=true&theme=radical"/>
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=thajudecodes&show_icons=true&number_format=long&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues" width=700 />
 
 </p>
   
