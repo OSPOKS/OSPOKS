@@ -16,4 +16,4 @@
 
 
 ###
-_[![website](https://img.shields.io/badge/my_website-here-blue)](https://tinyurl.com/thajudecodes-in)
+_[![website](https://img.shields.io/badge/my_website-here-blue)](https://thajudheen.vercel.app/)
