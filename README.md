@@ -11,3 +11,4 @@
 - 😏 Love Zero-config
 - ✨ Simple is beautiful
 - 🦥 Write less, do more
+[![website](https://img.shields.io/badge/my_website-here-blue)](https://tinyurl.com/thajudecodes-in)
