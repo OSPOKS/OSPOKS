@@ -9,11 +9,13 @@
 
 ### 🐣🐨🐻🐻‍❄️?????
 
-# 🐨 Just another developer in the world
-# ©️ Love C-like languages only
-# 😏 Love Zero-config
-# ✨ Simple is beautiful
-# 🦥 Write less, do more
+- 🐨 Just another developer in the world
+   ©️  i like to work with physical server
+- ✨ i like things like risc,arm,rassberrypi ec
+- ✨ doing physical is better than software 
+- 😏 Love Zero-config
+- ✨ Simple is beautiful
+- 🦥 Write less, do more
 
 
 ###
