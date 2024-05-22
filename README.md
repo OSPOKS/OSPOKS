@@ -20,3 +20,45 @@
 
 ###
 
+
+
+
+
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Waving Hand Greeting</title>
+  <style>
+    body {
+      background-color: #FFFFFF; /* White background */
+    }
+  </style>
+</head>
+<body>
+  <h1>
+    Hello<br>
+    Bonjour<br>
+    Hola<br>
+    Hallo<br>
+    Ciao<br>
+    Здравствуйте (Zdravstvuyte)<br>
+    你好 (Nǐ hǎo)<br>
+    こんにちは (Konnichiwa)<br>
+    안녕하세요 (Anyeonghaseyo)<br>
+    नमस्ते (Namaste)<br>
+    مرحباً (Marhaba)<br>
+    Olá<br>
+    Cześć<br>
+    Γεια σας (Yassas)<br>
+    Hallo<br>
+    Hej<br>
+    Merhaba<br>
+    שלום (Shalom)<br>
+    Habari<br>
+    Xin chào
+  </h1>
+  <p></p>
+</body>
+</html>
