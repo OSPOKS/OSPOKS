@@ -28,7 +28,7 @@
 ### 你好 (Nǐ hǎo)
 ### こんにちは (Konnichiwa)
 ### नमस्ते (Namaste)
-### привет (prive)
+### привет (privet)
 ### Olá
 ### Cześć<br>
 ### Γεια σας (Yassas)
