@@ -1,5 +1,5 @@
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_thaju____) [!
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_thaju____)
 [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=thajudecodes)](https://www.last.fm/user/thajudecodes)
 
 
