@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-Welcome to my digital playground! I'm **Thajudheen** (aka `thaju` on Twitter and Instagram).  
+Welcome to my digital playground! I'm **Thajudheen** (aka `thaju` ).  
 Here, you’ll find me geeking out about **cybersecurity**, **hardware experiments**, and solving tech puzzles for fun.  
 
 ---
@@ -36,6 +36,7 @@ I love creating tools that aren’t just functional—they’re intuitive and fu
 ![Thaju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ospoks&show_icons=true&theme=tokyonight&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ospoks&layout=compact&theme=tokyonight&border_radius=20)  
 ![Thaju's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ospoks&theme=tokyonight&border_radius=20)  
+![Contributions](https://github-contributor-stats.vercel.app/api?username=ospoks&theme=tokyonight)  
 
 🌟 **Fun Fact:** My repo is a mix of wild experiments and carefully designed solutions.  
 
