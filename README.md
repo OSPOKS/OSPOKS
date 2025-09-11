@@ -70,6 +70,7 @@ Let’s chat, share ideas, or geek out about tech:
 
 ---
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=602852" style='border:none;'></iframe>
+![Thaju's ](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=602852)  
 
 
 🌟 **Thanks for stopping by!** Let’s make the digital world safer and more fun—together!  
