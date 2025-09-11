@@ -74,4 +74,5 @@ Let’s chat, share ideas, or geek out about tech:
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ospoks.png)](https://tryhackme.com/p/ospoks)
 
 
+
 🌟 **Thanks for stopping by!** Let’s make the digital world safer and more fun—together!  
