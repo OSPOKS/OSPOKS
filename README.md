@@ -69,8 +69,9 @@ Let’s chat, share ideas, or geek out about tech:
 - 🛠️ **Philosophy**: Write tools that are both **powerful** and **easy to use**.  
 
 ---
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=602852" style='border:none;'></iframe>
-![Thaju's ](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=602852)  
+## 🕵️ TryHackMe Progress  
+
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ospoks.png)](https://tryhackme.com/p/ospoks)
 
 
 🌟 **Thanks for stopping by!** Let’s make the digital world safer and more fun—together!  
