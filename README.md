@@ -67,6 +67,7 @@ Let’s chat, share ideas, or geek out about tech:
 - 🖥️ **Raspberry Pi**: Transforming small devices into powerful tools.  
 - 🔧 **Favorite Tools**: **RISC**, **ARM**, **Zero-config frameworks**, **Ethical Hacking**, and **Pen Testing**.  
 - 🛠️ **Philosophy**: Write tools that are both **powerful** and **easy to use**.  
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=602852" style='border:none;'></iframe>
 
 ---
 
