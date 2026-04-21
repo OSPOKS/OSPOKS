@@ -1,78 +1,198 @@
-# Hi there! 👋  
+<div align="center">
 
-Welcome to my digital playground! I'm **Thajudheen** (aka `thaju` ).  
-Here, you’ll find me geeking out about **cybersecurity**, **hardware experiments**, and solving tech puzzles for fun.  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:083c16,100:00FF41&height=220&section=header&text=Thajudheen&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Security%20Engineer%20%E2%80%A2%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
 
----
+<br/>
 
-## 🌍 About Me  
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+thajudheen;%24+cat+skills.txt;%3E+full-stack+%7C+security+%7C+ai;%24+sudo+./deploy+--prod;%3E+Ship+it." alt="Terminal Typing" />
+</a>
 
-🌟 **Who am I?**  
-I’m just a curious mind, exploring the intersections of **software** and **hardware**. Whether it’s cracking security challenges or tinkering with **Raspberry Pi**, I’m all about innovation.  
+<br/><br/>
 
-🎯 My motto? **Efficiency over complexity** – work smarter, not harder!  
+<a href="mailto:thaju6745@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ospoks&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 
-🛠️ **What excites me?**  
-- Breaking and building with **low-level programming** on **RISC** and **ARM**.  
-- Designing zero-configuration tools that “just work.”  
-- Blending the virtual and physical world through hands-on projects.  
+</div>
 
-🌴 **Fun fact:** Physical work like DIY electronics or prototyping beats endless debugging sessions any day!  
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
-## 🎢 My Journey  
+<br/>
 
-- **Cybersecurity Developer**: Crafting tools to secure and simplify digital life.  
-- **Hardware Enthusiast**: Leveraging devices like **Raspberry Pi** for experimental security projects.  
-- **Ethical Hacker**: Exploring the art of penetration testing and ethical hacking to make the web safer.  
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="480" alt="hacker gif"/>
+</div>
 
-I love creating tools that aren’t just functional—they’re intuitive and fun to use.  
+<br/>
 
----
+<div align="center">
 
-## 🌌 GitHub Stats  
+## 🧠 &nbsp; About Me
 
-![Thaju's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ospoks&show_icons=true&theme=tokyonight&border_radius=20&rank_icon=percentile&ring_color=75C3FD&hide=issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ospoks&layout=compact&theme=tokyonight&border_radius=20)  
-![Thaju's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ospoks&theme=tokyonight&border_radius=20)  
-![Contributions](https://github-contributor-stats.vercel.app/api?username=ospoks&theme=tokyonight)  
+**`Full-Stack Developer · Security Engineer · AI Builder`**
 
-🌟 **Fun Fact:** My repo is a mix of wild experiments and carefully designed solutions.  
+</div>
 
----
+> I write code that ships fast, scales well, and doesn't crack under pressure.
+> My edge is a deep background in **cybersecurity and low-level systems** —
+> I think like an attacker and build like an engineer.
 
-## 🌍 Languages & Greetings  
+<br/>
 
-👋 Connecting with people worldwide is one of the perks of what I do! Here’s how I might say hello:  
+<table align="center">
+  <tr>
+    <td>🔭</td><td>Currently building secure, scalable web platforms</td>
+    <td>🛡️</td><td>Security-first by design — not as an afterthought</td>
+  </tr>
+  <tr>
+    <td>🤖</td><td>Exploring AI × systems engineering</td>
+    <td>🌍</td><td>Based in <b>India</b> · Shipping globally</td>
+  </tr>
+  <tr>
+    <td>⚡</td><td colspan="3"><i>Principle: efficiency over complexity — always.</i></td>
+  </tr>
+</table>
 
-🇬🇧 **Hello** | 🇫🇷 **Bonjour** | 🇪🇸 **Hola** | 🇩🇪 **Hallo** | 🇮🇹 **Ciao** | 🇷🇺 **Здравствуйте (Zdravstvuyte)**  
-🇨🇳 **你好 (Nǐ hǎo)** | 🇯🇵 **こんにちは (Konnichiwa)** | 🇮🇳 **नमस्ते (Namaste)** | 🇧🇷 **Olá** | 🇵🇱 **Cześć**  
-🇬🇷 **Γεια σας (Yassas)** | 🇸🇦 **مرحبا (Marhaban)** | 🇹🇷 **Merhaba** | 🇰🇭 **Habari** | 🇻🇳 **Xin chào**  
-
----
-
-## 📱 Let’s Connect  
-
-Let’s chat, share ideas, or geek out about tech:  
-- 🐦 Twitter: [@_thaju____](https://twitter.com/_thaju____)  
-- 📸 Instagram: [@_.thaju____](https://www.instagram.com/_.thaju____)  
-- 🎵 Last.fm: [thajudecodes](https://www.last.fm/user/thajudecodes)  
-
----
-
-## 🛠️ My Toolbox  
-
-- 💻 **Cybersecurity Development**: Crafting solutions that secure the digital realm.  
-- 🖥️ **Raspberry Pi**: Transforming small devices into powerful tools.  
-- 🔧 **Favorite Tools**: **RISC**, **ARM**, **Zero-config frameworks**, **Ethical Hacking**, and **Pen Testing**.  
-- 🛠️ **Philosophy**: Write tools that are both **powerful** and **easy to use**.  
-
----
-## 🕵️ TryHackMe Progress  
-
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ospoks.png)](https://tryhackme.com/p/ospoks)
+<br/>
 
 
 
-🌟 **Thanks for stopping by!** Let’s make the digital world safer and more fun—together!  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+## 🛠️ &nbsp; Tech Stack
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>🗣️ &nbsp; Languages</b>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp,cs,php,bash,html,css,md&perline=12&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>🎨 &nbsp; Frontend</b>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,sass,bootstrap,materialui,tailwind,vite,figma&perline=10&theme=dark" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>⚙️ &nbsp; Backend & Infrastructure</b>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,redis,firebase,docker,linux,nginx,aws,gcp,azure,git,github&perline=10&theme=dark" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>🛡️ &nbsp; Security & Low-Level</b>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kali,bash&perline=10&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Metasploit-2B2B2B?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wifite-111111?style=for-the-badge&logo=wi-fi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pen%20Testing-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>🔌 &nbsp; Hardware & IoT</b>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&perline=10&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microcontrollers-1f1f1f?style=for-the-badge&logo=microchip&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM%20%2F%20RISC-0091BD?style=for-the-badge&logo=arm&logoColor=white" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>🤖 &nbsp; AI & Machine Learning</b>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=10&theme=dark" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ospoks&show_icons=true&theme=tokyonight&border_radius=12&rank_icon=percentile&ring_color=7C3AED&hide=issues&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=75C3FD" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospoks&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7C3AED" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ospoks&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=75C3FD&currStreakLabel=7C3AED&border_radius=12&dates=888" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ospoks&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ospoks&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ospoks&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ospoks&theme=tokyonight" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ospoks&theme=tokyonight&utcOffset=5.5" width="24%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://tryhackme.com/p/ospoks">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ospoks.png" alt="TryHackMe" height="65" />
+  </a>
+</div>
+
+<br/>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:75C3FD,30:3b1d8f,60:1a0533,100:0d1117&height=140&section=footer&text=Built%20with%20logic.%20Driven%20by%20curiosity.&fontSize=18&fontColor=cccccc&fontAlignY=62" />
+</div>
