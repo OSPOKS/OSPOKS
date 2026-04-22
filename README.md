@@ -148,6 +148,19 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>🧠 &nbsp; Language Models & Tools</b>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Torch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Fast%20Language%20Model-141516?style=for-the-badge" />
+</div>
+
+<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 <br/>
