@@ -150,13 +150,89 @@
 
 <img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
 <br/>
-<b>🧠 &nbsp; Language Models & Tools</b>
+<b>⚡ &nbsp; Deep Learning Environment</b>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Torch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda%20%2F%20Miniconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>🔥 &nbsp; Core Training & Optimization</b>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/HF%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/HF%20PEFT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/HF%20TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/bitsandbytes-000000?style=for-the-badge" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>🧠 &nbsp; Local Fine-Tuning Frameworks</b>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Unsloth-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fast%20Language%20Model-141516?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLaMA--Factory-141516?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Axolotl-141516?style=for-the-badge" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>☁️ &nbsp; Enterprise & Cloud Platforms</b>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SiliconFlow-1A1A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firework%20AI-FF6000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amazon%20SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM%20Watsonx-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>🗂️ &nbsp; Data Preparation & Annotation</b>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HF%20Datasets-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+  <img src="https://img.shields.io/badge/Labellerr-1A1A1A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SuperAnnotate-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Label%20Studio-090909?style=for-the-badge" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>🖥️ &nbsp; Cloud Compute Providers</b>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/RunPod-673AB7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lambda%20Labs-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</div>
+
+<br/>
+
+<img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
+<br/>
+<b>🧪 &nbsp; Testing & Inference</b>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LM%20Studio-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oobabooga-141516?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deepchecks-1A1A1A?style=for-the-badge" />
 </div>
 
 <br/>
