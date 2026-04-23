@@ -244,7 +244,6 @@
 ## 📊 &nbsp; GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ospoks&show_icons=true&theme=tokyonight&border_radius=12&rank_icon=percentile&ring_color=7C3AED&hide=issues&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=75C3FD" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ospoks&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=7C3AED" />
 </div>
 
