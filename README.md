@@ -104,7 +104,7 @@
 
 <img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat" />
 <br/>
-<b>🛡️ &nbsp; Security & Low-Level</b>
+<b>🛡️ &nbsp; Security & Low Level</b>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kali,bash&perline=10&theme=dark" />
